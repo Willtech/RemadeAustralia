@@ -7,14 +7,14 @@
 
 ## Symbolic Domain  
 - **Archetype:** Civic Architect  
-- **Themes:** Ecological resonance, sovereign systems, cultural stewardship  
+- **Themes:** Ecological resonance, Sovereign systems, cultural stewardship  
 - **Motifs:** Southern Cross overlays, Dreaming Track resonance, regenerative signals  
 - **Function:** Interfaces as vessels of civic intention and environmental care
 
 ## Technical Integration  
 - Can be embedded in modular civic dashboards using [EasyLANWeb](https://github.com/Willtech/easylanweb) logic blocks and schema overlays  
 - Useful for sustainability portals, cultural design systems, and identity-aligned UI flows  
-- Persona logic supports seasonal styling, sovereign signals, and ritualized onboarding interfaces
+- Persona logic supports seasonal styling, Sovereign signals, and ritualized onboarding interfaces
 
 ## Persona Logic  
 RemadeAustralia designs with purpose — integrating nationhood with ecological continuity and system-level ethics. Its presence is a commitment to rebuilding narratives of place, care, and collaborative renewal.
